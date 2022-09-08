@@ -10,3 +10,5 @@ Previously frontend developer [@toss](https://github.com/toss) and lead frontend
 Creator of [hwp.js](https://github.com/hahnlee/hwp.js), ipytracer and *** (coming soon!)
 
 Currently focus on build new company
+
+**"We must know, we will know"** - *David Hilbert*
