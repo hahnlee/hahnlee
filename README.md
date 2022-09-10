@@ -7,7 +7,7 @@ Senior student [@UNIST](https://www.unist.ac.kr/)
 
 Previously frontend developer [@toss](https://github.com/toss) and lead frontend developer [@channel-io](https://github.com/channel-io).
 
-Creator of [hwp.js](https://github.com/hahnlee/hwp.js), ipytracer and 🤫 (coming soon!)
+Creator of [hwp.js](https://github.com/hahnlee/hwp.js), ipytracer and 🤫 (coming soon! Hint, rust!)
 
 Currently focus on build new company
 
