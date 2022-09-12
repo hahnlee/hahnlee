@@ -11,4 +11,4 @@ Creator of [hwp.js](https://github.com/hahnlee/hwp.js), ipytracer and 🤫 (comi
 
 Currently focus on build new company
 
-**"We must know, we will know"** - *David Hilbert*
+**"Life isn't about finding yourself. Life is about creating yourself."** - *George Bernard Shaw*
